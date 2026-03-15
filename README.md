@@ -1,11 +1,11 @@
-# Hola, soy Victoria 👋
+# 👋 Hola, soy Victoria Castera
 
-💻 Estudiante de Análisis de Sistemas  
+💻 Estudiante de Análisis de Sistemas | Diseñadora Gráfica  
 🌎 Montevideo, Uruguay  
 🌐 Desarrolladora Web en formación  
-🌐 Mi portfolio
-https://vickastera.github.io/portfolio-victoria
----
+🔗 [Mi portfolio](https://vickastera.github.io/portfolio-victoria)
+
+___
 
 ## 🚀 Sobre mí
 
@@ -20,23 +20,19 @@ Actualmente estoy desarrollando proyectos para mejorar mis habilidades en desarr
 
 ## 🧰 Tecnologías y herramientas
 
-Frontend
-- HTML
-- CSS
-- JavaScript
-- React
+**Frontend:**  
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 
-Programación
-- C#
-- SQL
-- Python
+**Programación:**  
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-Herramientas
-- Git
-- GitHub
-- Microsoft Office
-- Zendesk
-- CRM Systems
+**Herramientas:**  
+Git, GitHub, Microsoft Office, Zendesk, CRM Systems
 
 ---
 
